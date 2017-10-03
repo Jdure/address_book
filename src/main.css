@@ -1,0 +1,19 @@
+/**
+ * @Author: Jonathan Dure <JDure>
+ * @Date:   "September 30th 2017"
+ * @Email:  Dure0018@algonquinlive.com
+ * @Project: React Address List
+ * @Filename: main.css
+ * @Last modified by:   JDure
+ * @Last modified time: "October 2nd 2017"
+ */
+
+ .chip {
+     display: inline-block;
+     padding: 0 25px;
+     height: 50px;
+     font-size: 16px;
+     line-height: 50px;
+     border-radius: 25px;
+     background-color: #f1f1f1;
+ }
